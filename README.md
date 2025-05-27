@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Modern Developer Portfolio Website
 
 A modern, responsive developer portfolio website built with React TypeScript featuring comprehensive animations and professional design.
@@ -168,3 +169,7 @@ If you encounter any issues:
 ---
 
 **Built with ❤️ using modern web technologies**
+=======
+# nhuthuynh_porfolio
+a simple porfolio
+>>>>>>> 146d739f260a354c9d678b5f6454994c17d44946
