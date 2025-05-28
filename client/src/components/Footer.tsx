@@ -29,7 +29,7 @@ export function Footer() {
             whileHover={{ scale: 1.05 }}
             transition={{ duration: 0.2 }}
           >
-            &lt;alexchen /&gt;
+            &lt;nhuthuynh /&gt;
           </motion.div>
 
           <p className="text-gray-400 dark:text-gray-500 mb-6">

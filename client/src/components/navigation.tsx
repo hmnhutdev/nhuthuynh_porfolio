@@ -73,7 +73,7 @@ export function Navigation() {
             whileHover={{ scale: 1.05 }}
             transition={{ duration: 0.2 }}
           >
-            &lt;alexchen /&gt;
+            &lt;nhuthuynh /&gt;
           </motion.div>
 
           {/* Desktop Navigation */}
@@ -129,7 +129,7 @@ export function Navigation() {
                 {/* Header */}
                 <div className="flex items-center justify-between p-6 border-b border-gray-100 dark:border-gray-800">
                   <div className="font-bold text-xl font-mono text-portfolio-primary dark:text-blue-400">
-                    &lt;alexchen /&gt;
+                    &lt;nhuthuynh /&gt;
                   </div>
                   <Button
                     variant="ghost"

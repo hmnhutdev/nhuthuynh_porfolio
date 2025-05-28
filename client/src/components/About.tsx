@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { ScrollReveal } from "@/components/ui/scroll-reveal";
 import { fadeInLeft, fadeInRight } from "@/lib/animations";
+import MyAvatar from "@/assets/images/nhut.jpg";
 
 export function About() {
   return (
@@ -19,7 +20,7 @@ export function About() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <ScrollReveal animation={fadeInLeft}>
               <img
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=800"
+                src={MyAvatar}
                 alt="Alex Chen - Full Stack Developer"
                 className="rounded-2xl shadow-2xl w-full h-auto object-cover"
               />
@@ -31,7 +32,7 @@ export function About() {
                   Passionate Full Stack Developer
                 </h3>
                 <p className="text-gray-600 dark:text-gray-300 mb-6 leading-relaxed">
-                  With over 5 years of experience in web development, I
+                  With over 3 years of experience in web development, I
                   specialize in creating scalable, performant applications using
                   modern technologies. My journey started with a curiosity for
                   how things work, and it's evolved into a passion for building

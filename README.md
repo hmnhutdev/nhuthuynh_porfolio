@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Modern Developer Portfolio Website
 
 A modern, responsive developer portfolio website built with React TypeScript featuring comprehensive animations and professional design.
@@ -6,6 +5,7 @@ A modern, responsive developer portfolio website built with React TypeScript fea
 ## Features
 
 ✨ **Modern Design & Animations**
+
 - Responsive navigation with smooth scrolling
 - Hero section with animated typing effect and floating elements
 - About section with personal information and animated stats
@@ -15,6 +15,7 @@ A modern, responsive developer portfolio website built with React TypeScript fea
 - Professional footer with navigation links
 
 🎨 **Animation Features**
+
 - Button hover/click effects using Framer Motion
 - Modal fade in/out animations
 - Page transitions and scroll-triggered reveals
@@ -23,6 +24,7 @@ A modern, responsive developer portfolio website built with React TypeScript fea
 - Mobile menu slide-in from right
 
 🛠 **Technology Stack**
+
 - **Frontend**: React 18, TypeScript, Tailwind CSS
 - **Animations**: Framer Motion, Custom CSS animations
 - **UI Components**: Radix UI, Shadcn/ui
@@ -34,27 +36,31 @@ A modern, responsive developer portfolio website built with React TypeScript fea
 ## Installation & Setup
 
 ### Prerequisites
+
 - Node.js (version 16 or higher)
 - npm or yarn package manager
 
 ### For Windows Users
 
 1. **Clone/Download the project**
+
    ```bash
    # Extract the zip file or clone the repository
    cd portfolio-website
    ```
 
 2. **Install dependencies**
+
    ```bash
    npm install
    ```
 
 3. **Start development server (Windows)**
+
    ```bash
    # Use this command for Windows
    set NODE_ENV=development && npm run tsx server/index.ts
-   
+
    # Or alternatively, you can use npx
    npx cross-env NODE_ENV=development tsx server/index.ts
    ```
@@ -62,12 +68,14 @@ A modern, responsive developer portfolio website built with React TypeScript fea
 ### For Mac/Linux Users
 
 1. **Clone/Download the project**
+
    ```bash
    # Extract the zip file or clone the repository
    cd portfolio-website
    ```
 
 2. **Install dependencies**
+
    ```bash
    npm install
    ```
@@ -161,6 +169,7 @@ MIT License - feel free to use this project for your own portfolio!
 ## Support
 
 If you encounter any issues:
+
 1. Make sure Node.js is properly installed
 2. Try deleting `node_modules` and running `npm install` again
 3. For Windows users, ensure you're using the correct environment variable syntax
@@ -169,7 +178,3 @@ If you encounter any issues:
 ---
 
 **Built with ❤️ using modern web technologies**
-=======
-# nhuthuynh_porfolio
-a simple porfolio
->>>>>>> 146d739f260a354c9d678b5f6454994c17d44946
